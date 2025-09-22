@@ -1,7 +1,7 @@
 Folder Structure
 
-<img width="312" height="368" alt="folder-structure-bdd-2" src="https://github.com/user-attachments/assets/3689a8f8-7ec7-47ed-8b63-504c79781e77" />
 <img width="465" height="543" alt="folder-structure-bdd" src="https://github.com/user-attachments/assets/f9aed35a-7dc7-4c4b-ba90-c6bf7c5087b1" />
+<img width="312" height="368" alt="folder-structure-bdd-2" src="https://github.com/user-attachments/assets/3689a8f8-7ec7-47ed-8b63-504c79781e77" />
 
 Cucumber SetUp Essentials
 
